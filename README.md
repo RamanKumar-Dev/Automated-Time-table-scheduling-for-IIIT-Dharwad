@@ -1,15 +1,30 @@
 # Automated-Time-table-scheduling-for-IIIT-Dharwad
-• Create a software solution that efficiently schedules lectures, tutorials, and lab sessions for
-various departments, batches , faculty, and classrooms.
+Objective:
 
-• The primary objective of this project is to automate the generation of the academic
-timetable for the Indian Institute of Information Technology (IIIT) Dharwad. The manual
-process of creating a feasible timetable is complex, time-consuming, and prone to human
-error. This project aims to create a software solution that efficiently schedules lectures,
-tutorials, and lab sessions for various departments, batches, faculty, and classrooms.
+  Automate the generation of academic timetables for IIIT Dharwad.
 
-• The system will address the complexities arising from elective courses and faculty avail-
-ability preferences. By automating this process, the project seeks to reduce administrative
+  Replace the manual process which is complex, time-consuming, and error-prone.
 
-effort and improve the overall quality, fairness, and adaptability of the academic schedule
-at IIIT Dharwad.
+Scope of the System:
+
+  Efficiently schedule lectures, tutorials, and lab sessions.
+
+  Handle multiple departments, batches, faculty members, and classrooms.
+
+Key Features:
+
+  Manage faculty availability and preference constraints.
+
+  Handle complexities arising from elective courses.
+
+  Ensure fair distribution of workload among faculty.
+
+  Optimize classroom and resource utilization.
+
+Expected Outcomes:
+
+  Reduce administrative effort in timetable preparation.
+
+  Improve quality, fairness, and adaptability of academic scheduling.
+
+  Provide a flexible system to accommodate changes with minimal effort.
