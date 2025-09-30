@@ -1,0 +1,35 @@
+# configs/config.yaml
+session: "Aug-Dec 2025"
+
+input:
+  course: "data/raw/course_data.csv"
+  faculty: "data/raw/faculty_availability.csv"
+  rooms: "data/raw/classroom_data.csv"
+  students: "data/raw/student_data.csv"
+
+output:
+  timetable: "data/processed/timetable.csv"
+
+slot_definitions:
+  - name: "Slot A"
+    start: "08:30"
+    end: "09:45"
+  - name: "Slot B"
+    start: "10:00"
+    end: "11:15"
+  - name: "Slot C"
+    start: "11:30"
+    end: "12:45"
+  - name: "Slot D"
+    start: "14:00"
+    end: "15:15"
+  - name: "Slot E"
+    start: "15:30"
+    end: "16:45"
+
+days:
+  - Mon
+  - Tue
+  - Wed
+  - Thu
+  - Fri
